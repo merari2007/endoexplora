@@ -1,0 +1,5 @@
+<!-- Placeholder para game-card.png -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 250" width="400" height="250">
+  <rect fill="#a68860" width="400" height="250"/>
+  <text x="200" y="125" text-anchor="middle" font-size="18" fill="#fff">Imagen: game-card.png</text>
+</svg>
